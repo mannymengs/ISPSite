@@ -34,3 +34,7 @@ Navigate to the console view for "Datanucleus Enhancer" for more information
 
 !ENTRY com.google.gdt.eclipse.drive 1 0 2015-04-29 11:08:28.636
 !MESSAGE DriveLoginListener invoked to report login
+
+!ENTRY com.google.appengine.eclipse.core 4 0 2015-04-30 11:20:24.767
+!MESSAGE Datanucleus enhancer terminated with exit code 1.
+Navigate to the console view for "Datanucleus Enhancer" for more information
